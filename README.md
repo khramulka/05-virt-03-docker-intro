@@ -43,7 +43,8 @@ https://hub.docker.com/repository/docker/khramulka/custom-nginx/general
 
 ## Ответ на 2 задание
 
-![](image/2.1.jpg)
+![1](image/2.1.png
+)
 
 
 ---

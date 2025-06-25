@@ -66,15 +66,15 @@ https://hub.docker.com/repository/docker/khramulka/custom-nginx/general
 
 ## Ответ на 3 задание
 
-![](image/3.1.jpg)
+![](image/3.1.png)
 
-![](image/3.2.jpg)
+![](image/3.2.png)
 
-![](image/3.3.jpg)
+![](image/3.3.png)
 
-![](image/3.4.jpg)
+![](image/3.4.png)
 
-![](image/3.5.jpg)
+![](image/3.5.png)
 
 В контейнере при нажатии Ctrl-C передает контейнеру сигнал SIGINT, тем самым его  останавливает. 
 
@@ -97,9 +97,9 @@ https://hub.docker.com/repository/docker/khramulka/custom-nginx/general
 ## Ответ на 4 задание
 
 
-![](image/4.1.jpg)
+![](image/4.1.png)
 
-![](image/4.2.jpg)
+![](image/4.2.png)
 
 ---
 ## Задача 5
@@ -160,16 +160,16 @@ include:
 
 
 
-![](image/5.1.jpg)
+![](image/5.1.png)
 
-![](image/5.2.jpg)
+![](image/5.2.png)
 
 
-![](image/5.3.jpg)
+![](image/5.3.png)
 
-![](image/5.4.jpg)
+![](image/5.4.png)
 
-![](image/5.5.jpg)
+![](image/5.5.png)
 
 
 Возникла последний скрин.
